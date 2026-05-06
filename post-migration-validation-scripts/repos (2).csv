@@ -1,0 +1,5 @@
+org,teamproject,repo,url,last-push-date,pipeline-count,compressed-repo-size-in-bytes,most-active-contributor,pr-count,commits-past-year,github_org,github_repo,gh_repo_visibility
+"mpauljaison","ado2gh demo","born and raise","https://dev.azure.com/mpauljaison/ado2gh%20demo/_git/born%20and%20raise","05-May-2026 12:00 AM",0,"976","pauljaison m (mpauljaison@gmail.com)",0,2,migration-gh-org,born-and-raise-may6.1,private
+"mpauljaison","ado2gh demo","java_app","https://dev.azure.com/mpauljaison/ado2gh%20demo/_git/java-app","30-Apr-2026 12:00 AM",1,"5,039","pauljaison m (mpauljaison@gmail.com)",0,10,migration-gh-org,java_app_may6,private
+"mpauljaison","ado2gh demo","python-app","https://dev.azure.com/mpauljaison/ado2gh%20demo/_git/born%20and%20raise","05-May-2026 12:00 AM",0,"976","pauljaison m (mpauljaison@gmail.com)",0,2,migration-gh-org,python-app-may6,private
+
